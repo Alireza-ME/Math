@@ -1,6 +1,6 @@
 {
     "name": "alireza-me/math",
-    "type": "Library",
+    "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable"
+    "minimum-stability": "RC"
 }
