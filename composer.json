@@ -1,0 +1,7 @@
+{
+    "name": "alireza-me/math",
+    "type": "Library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
