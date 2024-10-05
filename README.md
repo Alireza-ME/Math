@@ -1,5 +1,5 @@
 
-# Math Class by A_LiReza_ME
+# Math Class
 
 This `Math` class provides a collection of useful mathematical operations. It includes basic arithmetic functions, advanced calculations like factorial, prime number checks, GCD, LCM, Fibonacci sequence generation, and more.
 
